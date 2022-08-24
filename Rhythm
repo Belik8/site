@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="/css/style.css">
+   <title>Rhythm</title>
+
+</head>
+
+<body>
+   <svg style="display: none">
+      <symbol id="facebook" viewBox="0 0 12 23">
+         <path
+            d="M8.0681 22.6468V12.558H11.3345L11.8235 8.62623H8.0681V6.11591C8.0681 4.9776 8.37303 4.20178 9.94765 4.20178L11.9559 4.20081V0.6843C11.6084 0.636558 10.4164 0.529541 9.02956 0.529541C6.13416 0.529541 4.1519 2.36176 4.1519 5.72672V8.62633H0.877075V12.5581H4.15179V22.6469L8.0681 22.6468Z"/>
+   </svg>
+   </symbol>
+
+   </svg>
+
+
+
+   <link href="https://fonts.googleapis.com/css?family=Poppins:regular,500,600" />
+   <link href="https://fonts.googleapis.com/css?family=Fira+Sans:600" />
+
+   <div class="wrapper">
+<header class="header">
+   <div class="header__container _container">
+      <div class="header__body">
+         <div class="header__column">
+            <div class="header__logo">
+               <a href="#"><img src="/img/logo.svg" alt="Logo"></a>
+            </div>
+         </div>
+         <nav class="header__nav menu">
+            <ul class="menu__list">
+               <li class="menu__item">
+                  <a href="#" class="menu__link">Store</a>
+                  <a href="#" class="menu__link">Collections</a>
+                  <a href="#" class="menu__link">Support</a>
+               </li>
+            </ul>
+         </nav>
+      </div>
+   </div>
+</header>      <main class="page">
+         <section class="head">
+            <div class="head__container _container">
+               <div class="head__body">
+                  <div class="head__title title">Browse top quality <span class="title__word"> Guitars</span> online
+                  </div>
+                  <div class="head__subtitle subtitle">Explore 50k+ latest collections of branded guitars <br> online
+                     with
+                     Rhythm.</div>
+                  <div class="head__button ">
+                     <button class="head__button__mar button">Get the App</button>
+                     <a href="#" class="btn__link">
+                        <img src="/img/main/google.svg" alt="">
+                     </a>
+                     <a href="#" class="btn__link">
+                        <img src="/img/main/apple.svg" alt="">
+                     </a>
+                  </div>
+               </div>
+            </div>
+            <div class="head__banner _ibg">
+               <img src="/img/main/main-decor.png" alt="">
+            </div>
+         </section>
+         <section class="store">
+            <div class="store__container _container">
+               <h1 class="store__title title">
+                  Check out the <span class="title__word">Store</span>
+               </h1>
+               <div class="store__more">
+                  <div class="store__more__items">
+                     <div class="store__more__item">
+                        <a href="#" class="store__more__link link--left">NEW ON THE BOARD</a>
+                     </div>
+                     <div class="store__more__item">
+                        <a href="#" class="store__more__link link--right">view all</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="store__product">
+                  <div class="store__product__body product__store">
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/01.png" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul </div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/02.jpg" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul</div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/03.jpg" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul</div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="store">
+            <div class="store__container _container">
+               <div class="store__more">
+                  <div class="store__more__items">
+                     <div class="store__more__item">
+                        <a href="#" class="store__more__link link--left">TOP SELLING</a>
+                     </div>
+                     <div class="store__more__item">
+                        <a href="#" class="store__more__link link--right">view all</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="store__product">
+                  <div class="store__product__body product__store">
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/03.jpg" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul </div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/04.jpg" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul</div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+                     <div class="product__store__items items__store">
+                        <div class="items__store__image">
+                           <img src="/img/store/05.jpg" alt="The Essential Les Paul">
+                        </div>
+                        <div class="items__store__content">
+                           <div class="items__store__name">The Essential Les Paul</div>
+                           <div class="items__store__prace">$1,299.00</div>
+                        </div>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="store__categories">
+            <div class="categories__container _container">
+               <h2 class="store__categories title">
+                  Choose based on <span class="title__word">Categories</span>
+               </h2>
+               <div class="store__categories__body">
+                  <div class="store__categories__row">
+                     <div class="store__categories__column">
+                        <div class="store__categories__item item__categories">
+                           <div class="item__categories__img">
+                              <a href="#" class="item__categories__link"><img src="/img/categories/01.jpg" alt=""></a>
+                           </div>
+                           <div class="item__categories__title">Acoustic</div>
+                        </div>
+                     </div>
+
+                     <div class="store__categories__column">
+                        <div class="store__categories__item item__categories">
+                           <div class="item__categories__img">
+                              <a href="#" class="item__categories__link"><img src="/img/categories/02.jpg" alt=""></a>
+                           </div>
+                           <div class="item__categories__title">Electric</div>
+                        </div>
+                     </div>
+
+                     <div class="store__categories__column">
+                        <div class="store__categories__item item__categories">
+                           <div class="item__categories__img">
+                              <a href="#" class="item__categories__link"><img src="/img/categories/03.jpg" alt=""></a>
+                           </div>
+                           <div class="item__categories__title">Basses</div>
+                        </div>
+                     </div>
+
+                     <div class="store__categories__column">
+                        <div class="store__categories__item item__categories">
+                           <div class="item__categories__img">
+                              <a href="#" class="item__categories__link"><img src="/img/categories/04.jpg" alt=""></a>
+                           </div>
+                           <div class="item__categories__title">Collections</div>
+                        </div>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="store__brands">
+            <div class="store__brands__container _container">
+               <div class="store__brands__title title">
+                  <h2 class="store__categories title">
+                     Featuring the <span class="title__word">Best Brands</span>
+                  </h2>
+               </div>
+               <div class="store__brands__body">
+                  <div class="store__brands__items">
+                     <div class="store__brands__item">
+                        <img src="/img/brands/01.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/02.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/03.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/04.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/05.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/06.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/07.jpg" alt="brand">
+                     </div>
+                     <div class="store__brands__item">
+                        <img src="/img/brands/08.jpg" alt="brand">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="store__rhythm">
+            <div class="store__rhythm__container _container">
+               <div class="store__rhythm__title title">
+                  <h2 class="store__categories title">
+                     Why try <span class="title__word">Rhythm?</span>
+                  </h2>
+               </div>
+               <div class="store__rhythm__body">
+                  <div class="store__rhythm__row">
+                     <div class="store__rhythm__column">
+                        <div class="store__rhythm__items item__rhythm">
+                           <div class="item__rhythm__img">
+                              <img src="/img/why/01.svg" alt="">
+                           </div>
+                           <div class="item__rhythm__contant">
+                              <div class="item__rhythm__title">Smooth Browsing</div>
+                              <div class="item__rhythm__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="store__rhythm__column">
+                        <div class="store__rhythm__items item__rhythm">
+                           <div class="item__rhythm__img">
+                              <img src="/img/why/02.svg" alt="">
+                           </div>
+                           <div class="item__rhythm__contant">
+                              <div class="item__rhythm__title">EASY Delivery </div>
+                              <div class="item__rhythm__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="store__rhythm__column">
+                        <div class="store__rhythm__items item__rhythm">
+                           <div class="item__rhythm__img">
+                              <img src="/img/why/03.svg" alt="">
+                           </div>
+                           <div class="item__rhythm__contant">
+                              <div class="item__rhythm__title">SwiFT PAYMENTS</div>
+                              <div class="item__rhythm__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="store__customer">
+            <div class="store__customer__container _container">
+               <div class="store__customer__title title">
+                  <h3 class="store__customer title">
+                     What our <span class="title__word">customer’s</span> say
+                  </h3>
+               </div>
+               <div class="customer__body">
+                  <div class="customer__column">
+                     <div class="customer__img">
+                        <img class="customer__fon" src="/img/reviews/02.png" alt="">
+                        <img class="customer__photo" src="/img/reviews/01.jpg" alt="">
+                     </div>
+                  </div>
+                  <div class="customer__content">
+                     <div class="customer__text">“The Quality and Delivery is always on time, being a professional
+                        guitarist myself I love the customer service the brand provides, highly recommend Rhythm
+                        anytime.”</div>
+                     <div class="customer__info">
+                        <div class="customer__name">Ryan Wels</div>
+                        <div class="customer__prof">PROFESSIONAL GUITARIST</div>
+                     </div>
+                  </div>
+               </div>
+         </section>
+         <section class="store__buy buy">
+            <div class="buy__container _container">
+               <div class="buy__items">
+                  <div class="buy__item item__buy">
+                     <div class="item__buy__body">
+                        <div class="store__buy__title title">
+                           <h4 class="store__buy title">
+                              Browse and buy your <span class="title__word">favorite guitars</span> with Rhythm.</h4>
+                        </div>
+                        <div class="item__buy__download download">
+                           <a href="#" class="download__google">
+                              <svg> <use xlink:href="#facebook" class="facebook" src="/img/favorite/google.jpg" alt="Google"> </use></svg> 
+                           </a>
+                           <a href="#" class="download__apple">
+                              <img src="/img/favorite/apple.jpg" alt="Apple">
+                           </a>
+                        </div>
+                     </div>
+
+                  </div>
+                  <div class="buy__item item__buy">
+                     <div class="item__buy__fon">
+                        <img src="/img/favorite/image.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+            </div>
+   </div>
+   </section>
+   </main>
+<footer class="footer">
+   <div class="footer__container _container">
+      <div class="footer__top">
+         <div class="footer__row">
+            <div class="footer__column footer__logo">
+               <div class="footer__item item__footer">
+                  <div class="item__footer__logo">
+                     <img src="/img/logo.svg" alt="Logo">
+                  </div>
+                  <a href="emailto:Enquiry@Rhythm.com" class="item__footer__email">Enquiry@Rhythm.com</a>
+                  <a href="#" class="item__footer__loco">San Francisco</a>
+               </div>
+            </div>
+
+            <div class="footer__column column__footer">
+               <div class="footer__item item__footer">
+                  <div class="item__footer__title">Pages</div>
+                  <ul class="item__footer__list">
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Store</a>
+                     </li>
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Collections</a>
+                     </li>
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Support</a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+
+            <div class="footer__column column__footer">
+               <div class="footer__item item__footer">
+                  <div class="item__footer__title">Product</div>
+                  <ul class="item__footer__list">
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Terms</a>
+                     </li>
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Privacy Policy</a>
+                     </li>
+                     <li class="item__footer__item">
+                        <a href="#" class="item__footer__link">Copyright</a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+
+            <div class="footer__column column__footer__social">
+               <div class="footer__item item__footer">
+                  <div class="item__footer__title">Follow us</div>
+                  <ul class="item__footer__list list__social">
+                     <li class="item__footer__item item-social">
+                        <a href="#" class="item__footer__link__social">
+                           <img src="/img/footer/social/01.svg" alt="">
+                        </a>
+                     </li>
+                     <li class="item__footer__link__social ">
+                        <img src="/img/footer/social/02.svg" alt="">
+                     </li>
+                     <li class="item__footer__link__social">
+                        <img src="/img/footer/social/03.svg" alt="">
+                     </li>
+                  </ul>
+               </div>
+            </div>
+
+         </div>
+      </div>
+      <div class="footer__end">
+         <div class="footer__copy">© 2022 Copyright.Rhythm</div>
+      </div>
+   </div>
+</footer>   </div>
+</body>
+
+</html>
+{
+  "version": "7",
+  "about": "This is a Prepros (https://prepros.io) configuration file. You can commit this file to a git repo to backup and sync project configurations.",
+  "config": {
+    "proxy": {
+      "enable": false,
+      "target": "",
+      "useLocalAssets": false
+    },
+    "reload": {
+      "enable": true,
+      "delay": 0,
+      "animate": true,
+      "afterUpload": false
+    },
+    "sync": {
+      "enable": false,
+      "mouse": true,
+      "keyboard": true,
+      "form": true,
+      "scroll": true
+    },
+    "watcher": {
+      "enable": true,
+      "maxFiles": 2000,
+      "usePolling": false,
+      "pollingInterval": 500,
+      "extensions": [
+        ".html",
+        ".htm",
+        ".php"
+      ],
+      "ignore": {
+        "patterns": [
+          ".*",
+          "wp-admin",
+          "wp-includes",
+          "node_modules",
+          "Prepros Export",
+          "bower_components"
+        ],
+        "exceptions": []
+      }
+    },
+    "exporter": {
+      "ignore": {
+        "patterns": [
+          ".*",
+          "desktop.ini",
+          "prepros.cfg",
+          "node_modules",
+          "Prepros Export",
+          "prepros.config",
+          "prepros-6.config",
+          "*-original.jpg",
+          "*-original.jpeg",
+          "*-original.png",
+          "*-original.svg",
+          "*.scss",
+          "*.sass",
+          "*.less",
+          "*.pug",
+          "*.jade",
+          "*.styl",
+          "*.haml",
+          "*.slim",
+          "*.coffee",
+          "*.kit",
+          "*.turf",
+          "*.ts"
+        ],
+        "exceptions": []
+      }
+    },
+    "uploader": {
+      "remotePath": "",
+      "timeout": 20000,
+      "autoUpload": false,
+      "reuseConnection": true,
+      "connectionType": "ftp",
+      "history": []
+    },
+    "packages": {
+      "createPackageLock": true
+    },
+    "images": {
+      "preserveOriginal": true
+    },
+    "tasks": {
+      "autoprefixer": {
+        "cascade": true,
+        "add": true,
+        "remove": true,
+        "supports": true,
+        "flexbox": true,
+        "grid": "autoplace",
+        "browsers": [
+          "last 2 versions"
+        ],
+        "sourceMap": false
+      },
+      "babel": {
+        "sourceMap": false,
+        "presets": {
+          "@babel/preset-env": {
+            "enable": true,
+            "options": {
+              "targets": [
+                "last 2 versions"
+              ],
+              "preserveImports": false,
+              "polyfills": false
+            }
+          },
+          "@babel/preset-react": true,
+          "@babel/preset-flow": false
+        },
+        "plugins": {
+          "@babel/plugin-proposal-class-static-block": false,
+          "@babel/plugin-proposal-class-properties": false,
+          "@babel/plugin-proposal-decorators": {
+            "enable": false,
+            "options": {
+              "decoratorsBeforeExport": true
+            }
+          },
+          "@babel/plugin-proposal-export-namespace-from": false,
+          "@babel/plugin-proposal-function-sent": false,
+          "@babel/plugin-proposal-logical-assignment-operators": false,
+          "@babel/plugin-proposal-nullish-coalescing-operator": false,
+          "@babel/plugin-proposal-numeric-separator": false,
+          "@babel/plugin-proposal-optional-chaining": false,
+          "@babel/plugin-proposal-private-methods": false,
+          "@babel/plugin-proposal-throw-expressions": false
+        },
+        "customPresets": [],
+        "customPlugins": []
+      },
+      "bundle-js": {
+        "sourceMap": false,
+        "exclude": [
+          "node_modules",
+          "bower_components"
+        ],
+        "devMode": true,
+        "globals": [],
+        "externals": [],
+        "babel": {
+          "enable": true,
+          "options": {
+            "sourceMap": false,
+            "presets": {
+              "@babel/preset-env": {
+                "enable": true,
+                "options": {
+                  "targets": [
+                    "last 2 versions"
+                  ],
+                  "preserveImports": false,
+                  "polyfills": false
+                }
+              },
+              "@babel/preset-react": true,
+              "@babel/preset-flow": false
+            },
+            "plugins": {
+              "@babel/plugin-proposal-class-static-block": false,
+              "@babel/plugin-proposal-class-properties": false,
+              "@babel/plugin-proposal-decorators": {
+                "enable": false,
+                "options": {
+                  "decoratorsBeforeExport": true
+                }
+              },
+              "@babel/plugin-proposal-export-namespace-from": false,
+              "@babel/plugin-proposal-function-sent": false,
+              "@babel/plugin-proposal-logical-assignment-operators": false,
+              "@babel/plugin-proposal-nullish-coalescing-operator": false,
+              "@babel/plugin-proposal-numeric-separator": false,
+              "@babel/plugin-proposal-optional-chaining": false,
+              "@babel/plugin-proposal-private-methods": false,
+              "@babel/plugin-proposal-throw-expressions": false
+            },
+            "customPresets": [],
+            "customPlugins": []
+          }
+        },
+        "css": {
+          "enable": true
+        }
+      },
+      "coffeescript": {
+        "header": false,
+        "bare": false,
+        "sourceMap": false
+      },
+      "command": {
+        "command": "",
+        "rootDir": ""
+      },
+      "concat-js": {
+        "sourceMap": false,
+        "rootDir": ""
+      },
+      "copy": {
+        "sourceMap": false
+      },
+      "dart-sass": {
+        "indentType": "space",
+        "allowWildcardImports": false,
+        "indentWidth": 2,
+        "linefeed": "lf",
+        "sourceMap": false
+      },
+      "haml": {
+        "doubleQuoteAttributes": true
+      },
+      "jpg": {
+        "quality": 90
+      },
+      "less": {
+        "javascriptEnabled": false,
+        "strictImports": false,
+        "insecure": false,
+        "math": "always",
+        "strictUnits": false,
+        "dumpLineNumbers": false,
+        "sourceMap": false
+      },
+      "markdown": {
+        "githubFlavored": true,
+        "wrapWithHtml": false
+      },
+      "minify-css": {
+        "sourceMap": false
+      },
+      "minify-html": {
+        "caseSensitive": false,
+        "collapseBooleanAttributes": true,
+        "collapseInlineTagWhitespace": false,
+        "collapseWhitespace": true,
+        "conservativeCollapse": false,
+        "decodeEntities": false,
+        "html5": true,
+        "includeAutoGeneratedTags": true,
+        "keepClosingSlash": false,
+        "minifyCSS": true,
+        "minifyJS": true,
+        "preserveLineBreaks": false,
+        "preventAttributesEscaping": false,
+        "processConditionalComments": false,
+        "removeAttributeQuotes": false,
+        "removeComments": true,
+        "removeEmptyAttributes": false,
+        "removeEmptyElement": false,
+        "removeOptionalTags": false,
+        "removeRedundantAttributes": false,
+        "removeScriptTypeAttributes": false,
+        "removeStyleLinkTypeAttributes": false,
+        "removeTagWhitespace": false,
+        "sortAttributes": false,
+        "sortClassName": false,
+        "useShortDoctype": true
+      },
+      "minify-js": {
+        "parse": {
+          "bare_returns": false
+        },
+        "compress": {
+          "arrows": true,
+          "arguments": false,
+          "booleans": true,
+          "booleans_as_integers": false,
+          "collapse_vars": true,
+          "comparisons": true,
+          "computed_props": true,
+          "conditionals": true,
+          "dead_code": true,
+          "directives": true,
+          "drop_console": false,
+          "drop_debugger": true,
+          "evaluate": true,
+          "expression": false,
+          "global_defs": [],
+          "hoist_funs": false,
+          "hoist_props": true,
+          "hoist_vars": false,
+          "if_return": true,
+          "inline": 3,
+          "join_vars": true,
+          "keep_fargs": true,
+          "keep_infinity": false,
+          "loops": true,
+          "negate_iife": true,
+          "properties": true,
+          "pure_funcs": [],
+          "pure_getters": false,
+          "reduce_funcs": true,
+          "reduce_vars": true,
+          "sequences": true,
+          "side_effects": true,
+          "switches": true,
+          "top_retain": [],
+          "typeofs": true,
+          "unsafe": false,
+          "unsafe_arrows": false,
+          "unsafe_comps": false,
+          "unsafe_Function": false,
+          "unsafe_math": false,
+          "unsafe_proto": false,
+          "unsafe_regexp": false,
+          "unsafe_undefined": false,
+          "unused": true
+        },
+        "mangle": {
+          "eval": false,
+          "reserved": []
+        },
+        "output": {
+          "ascii_only": false,
+          "braces": false,
+          "comments": "none",
+          "inline_script": true,
+          "keep_numbers": false,
+          "keep_quoted_props": false,
+          "preamble": null,
+          "quote_keys": false,
+          "quote_style": 0,
+          "semicolons": true,
+          "shebang": true,
+          "webkit": false,
+          "wrap_iife": false,
+          "wrap_func_args": true
+        },
+        "sourceMap": false,
+        "toplevel": false,
+        "ie8": false,
+        "keep_classnames": false,
+        "keep_fnames": false,
+        "safari10": false
+      },
+      "node-sass": {
+        "indentType": "space",
+        "allowWildcardImports": false,
+        "indentWidth": 2,
+        "linefeed": "lf",
+        "outputStyle": "nested",
+        "precision": 10,
+        "sourceMap": false,
+        "sourceComments": false
+      },
+      "png": {
+        "quality": 90
+      },
+      "postcss-import": {
+        "ignoreKeywords": [],
+        "sourceMap": false
+      },
+      "postcss-preset-env": {
+        "stage": 2,
+        "browsers": [
+          "last 2 versions"
+        ],
+        "sourceMap": false
+      },
+      "pug": {
+        "pretty": true
+      },
+      "slim": {
+        "indent": "space",
+        "indentSize": 2,
+        "pretty": true
+      },
+      "stylus": {
+        "useNib": true,
+        "sourceMap": false,
+        "linenos": false
+      },
+      "svg": {
+        "cleanupAttrs": true,
+        "removeDoctype": true,
+        "removeXMLProcInst": true,
+        "removeComments": true,
+        "removeMetadata": true,
+        "removeTitle": true,
+        "removeDesc": true,
+        "removeUselessDefs": true,
+        "removeEditorsNSData": true,
+        "removeEmptyAttrs": true,
+        "removeHiddenElems": true,
+        "removeEmptyText": true,
+        "removeEmptyContainers": true,
+        "removeViewBox": false,
+        "cleanupEnableBackground": true,
+        "convertStyleToAttrs": true,
+        "convertColors": true,
+        "convertPathData": true,
+        "convertTransform": true,
+        "removeUnknownsAndDefaults": true,
+        "removeNonInheritableGroupAttrs": true,
+        "removeUselessStrokeAndFill": true,
+        "removeUnusedNS": true,
+        "cleanupIDs": true,
+        "cleanupNumericValues": true,
+        "moveElemsAttrsToGroup": true,
+        "moveGroupAttrsToElems": true,
+        "collapseGroups": true,
+        "removeRasterImages": false,
+        "mergePaths": true,
+        "convertShapeToPath": true,
+        "sortAttrs": true,
+        "removeDimensions": true
+      },
+      "tailwindcss": {
+        "rootDir": "",
+        "content": [
+          "**/*.html",
+          "**/*.php",
+          "**/*.js",
+          "!wp-admin",
+          "!wp-includes",
+          "!node_modules",
+          "!Prepros Export"
+        ]
+      },
+      "turf": {
+        "rootDir": ""
+      },
+      "typescript": {
+        "allowJs": false,
+        "allowSyntheticDefaultImports": true,
+        "allowUmdGlobalAccess": false,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "alwaysStrict": false,
+        "charset": "utf8",
+        "checkJs": false,
+        "declaration": false,
+        "disableSizeLimit": false,
+        "downlevelIteration": false,
+        "emitBOM": false,
+        "emitDecoratorMetadata": false,
+        "experimentalDecorators": false,
+        "forceConsistentCasingInFileNames": false,
+        "importHelpers": false,
+        "jsx": "React",
+        "keyofStringsOnly": false,
+        "lib": [],
+        "maxNodeModuleJsDepth": 0,
+        "module": "ES2015",
+        "moduleResolution": "NodeJs",
+        "newLine": "LineFeed",
+        "noFallthroughCasesInSwitch": false,
+        "noImplicitAny": false,
+        "noImplicitReturns": false,
+        "noImplicitThis": false,
+        "noStrictGenericChecks": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noImplicitUseStrict": false,
+        "noLib": false,
+        "noResolve": false,
+        "preserveConstEnums": false,
+        "jsxFactory": "React.createElement",
+        "removeComments": false,
+        "skipLibCheck": false,
+        "sourceMap": false,
+        "strict": false,
+        "strictFunctionTypes": false,
+        "strictBindCallApply": false,
+        "strictNullChecks": false,
+        "strictPropertyInitialization": false,
+        "suppressExcessPropertyErrors": false,
+        "suppressImplicitAnyIndexErrors": false,
+        "target": "ES3",
+        "resolveJsonModule": false,
+        "esModuleInterop": false,
+        "useDefineForClassFields": false
+      }
+    },
+    "fileTypes": {
+      "sass": {
+        "extensions": [
+          ".scss",
+          ".sass"
+        ],
+        "autoCompile": true,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "node-sass",
+            "enable": true
+          },
+          {
+            "task": "autoprefixer",
+            "enable": true
+          },
+          {
+            "task": "minify-css",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".css",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "scss",
+              "replaceWith": "./css"
+            },
+            {
+              "segment": "sass",
+              "replaceWith": "./css"
+            }
+          ],
+          "relativePath": "../../css"
+        }
+      },
+      "less": {
+        "extensions": [
+          ".less"
+        ],
+        "autoCompile": true,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "less",
+            "enable": true
+          },
+          {
+            "task": "autoprefixer",
+            "enable": true
+          },
+          {
+            "task": "minify-css",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".css",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "less",
+              "replaceWith": "css"
+            }
+          ]
+        }
+      },
+      "pug": {
+        "extensions": [
+          ".pug",
+          ".jade"
+        ],
+        "autoCompile": true,
+        "tasks": [
+          {
+            "task": "pug",
+            "enable": true
+          },
+          {
+            "task": "minify-html",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".html",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "pug",
+              "replaceWith": "html"
+            }
+          ]
+        }
+      },
+      "css": {
+        "extensions": [
+          ".css"
+        ],
+        "autoCompile": false,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "copy",
+            "enable": true
+          },
+          {
+            "task": "tailwindcss",
+            "enable": false
+          },
+          {
+            "task": "postcss-import",
+            "enable": false
+          },
+          {
+            "task": "postcss-preset-env",
+            "enable": false
+          },
+          {
+            "task": "autoprefixer",
+            "enable": true
+          },
+          {
+            "task": "minify-css",
+            "enable": true
+          }
+        ],
+        "output": {
+          "extension": ".css",
+          "type": "SOURCE_RELATIVE",
+          "relativePath": "../css",
+          "suffix": "-dist",
+          "alwaysSuffix": false
+        }
+      },
+      "javascript": {
+        "extensions": [
+          ".js",
+          ".jsx"
+        ],
+        "autoCompile": false,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "copy",
+            "enable": true
+          },
+          {
+            "task": "concat-js",
+            "enable": false
+          },
+          {
+            "task": "babel",
+            "enable": false
+          },
+          {
+            "task": "bundle-js",
+            "enable": false
+          },
+          {
+            "task": "minify-js",
+            "enable": true
+          }
+        ],
+        "output": {
+          "extension": ".js",
+          "type": "SOURCE_RELATIVE",
+          "relativePath": "../../js",
+          "suffix": "-dist",
+          "alwaysSuffix": false
+        }
+      },
+      "stylus": {
+        "extensions": [
+          ".styl"
+        ],
+        "autoCompile": true,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "stylus",
+            "enable": true
+          },
+          {
+            "task": "autoprefixer",
+            "enable": true
+          },
+          {
+            "task": "minify-css",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".css",
+          "type": "SOURCE_RELATIVE",
+          "segments": [
+            {
+              "segment": "stylus",
+              "replaceWith": "css"
+            },
+            {
+              "segment": "styl",
+              "replaceWith": "css"
+            }
+          ],
+          "relativePath": "../css"
+        }
+      },
+      "markdown": {
+        "extensions": [
+          ".md",
+          ".markdown",
+          ".mkd"
+        ],
+        "autoCompile": false,
+        "tasks": [
+          {
+            "task": "markdown",
+            "enable": true
+          },
+          {
+            "task": "minify-html",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".html",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "markdown",
+              "replaceWith": "html"
+            }
+          ]
+        }
+      },
+      "haml": {
+        "extensions": [
+          ".haml"
+        ],
+        "autoCompile": true,
+        "tasks": [
+          {
+            "task": "haml",
+            "enable": true
+          },
+          {
+            "task": "minify-html",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".html",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "haml",
+              "replaceWith": "html"
+            }
+          ]
+        }
+      },
+      "slim": {
+        "extensions": [
+          ".slim"
+        ],
+        "autoCompile": true,
+        "tasks": [
+          {
+            "task": "slim",
+            "enable": true
+          },
+          {
+            "task": "minify-html",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".html",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "slim",
+              "replaceWith": "html"
+            }
+          ]
+        }
+      },
+      "coffeescript": {
+        "extensions": [
+          ".coffee"
+        ],
+        "autoCompile": true,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "coffeescript",
+            "enable": true
+          },
+          {
+            "task": "babel",
+            "enable": false
+          },
+          {
+            "task": "bundle-js",
+            "enable": false
+          },
+          {
+            "task": "minify-js",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".js",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "coffee-script",
+              "replaceWith": "js"
+            },
+            {
+              "segment": "coffeescript",
+              "replaceWith": "js"
+            },
+            {
+              "segment": "coffee",
+              "replaceWith": "js"
+            }
+          ]
+        }
+      },
+      "turf": {
+        "extensions": [
+          ".turf",
+          ".kit"
+        ],
+        "autoCompile": true,
+        "tasks": [
+          {
+            "task": "turf",
+            "enable": true
+          },
+          {
+            "task": "minify-html",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".html",
+          "type": "SOURCE_RELATIVE",
+          "segments": [
+            {
+              "segment": "turf",
+              "replaceWith": "html"
+            }
+          ],
+          "relativePath": "../"
+        }
+      },
+      "typescript": {
+        "extensions": [
+          ".ts",
+          ".tsx"
+        ],
+        "autoCompile": true,
+        "sourceMap": false,
+        "tasks": [
+          {
+            "task": "typescript",
+            "enable": true
+          },
+          {
+            "task": "babel",
+            "enable": false
+          },
+          {
+            "task": "bundle-js",
+            "enable": false
+          },
+          {
+            "task": "minify-js",
+            "enable": false
+          }
+        ],
+        "output": {
+          "extension": ".js",
+          "type": "REPLACE_SEGMENTS",
+          "segments": [
+            {
+              "segment": "typescript",
+              "replaceWith": "js"
+            },
+            {
+              "segment": "ts",
+              "replaceWith": "js"
+            }
+          ]
+        }
+      },
+      "jpg": {
+        "extensions": [
+          ".jpg",
+          ".jpeg"
+        ],
+        "tasks": [
+          {
+            "task": "jpg",
+            "enable": true
+          }
+        ],
+        "output": {
+          "extension": ".jpg",
+          "type": "SOURCE_RELATIVE",
+          "relativePath": ""
+        }
+      },
+      "png": {
+        "extensions": [
+          ".png"
+        ],
+        "tasks": [
+          {
+            "task": "png",
+            "enable": true
+          }
+        ],
+        "output": {
+          "extension": ".png",
+          "type": "SOURCE_RELATIVE",
+          "relativePath": ""
+        }
+      },
+      "svg": {
+        "extensions": [
+          ".svg"
+        ],
+        "tasks": [
+          {
+            "task": "svg",
+            "enable": true
+          }
+        ],
+        "output": {
+          "extension": ".svg",
+          "type": "SOURCE_RELATIVE",
+          "relativePath": ""
+        }
+      }
+    },
+    "files": []
+  }
+}
